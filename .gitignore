@@ -1,0 +1,17 @@
+# Binaries
+/awg-vpn-uri
+/awg-vpn-uri.exe
+*.exe
+*.test
+*.out
+
+# Dropped client configs / generated links (keep configs/.gitkeep)
+configs/*.conf
+configs/*.txt
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
